@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tailoring -->
+
+  <DoBillsMakeApparello.label>工匠服裝</DoBillsMakeApparello.label>
+  <DoBillsMakeApparello.verb>縫紉</DoBillsMakeApparello.verb>
+  <DoBillsMakeApparello.gerund>正在縫紉</DoBillsMakeApparello.gerund>
+
+
+</LanguageData>

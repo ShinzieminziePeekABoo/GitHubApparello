@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mojo -->
+
+  <Apparello_Mojo.label>部落低調面具</Apparello_Mojo.label>
+  <Apparello_Mojo.description>基本的部落面具，你印象中那種面具。</Apparello_Mojo.description>
+
+  <Apparello_Mojotwo.label>部落華麗面具</Apparello_Mojotwo.label>
+  <Apparello_Mojotwo.description>讓你看起來更有社交能力。</Apparello_Mojotwo.description>
+
+
+  <!-- Mojo Fether -->
+
+  <Apparello_MojoFeather.label>部落頭飾</Apparello_MojoFeather.label>
+  <Apparello_MojoFeather.description>部落頭飾或拿來當腳底酷刑裝置。這羽毛真有卵用！</Apparello_MojoFeather.description>
+
+
+</LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Syndicate -->
+
+  <Apparello_Syndicatellorare.label>流浪者胸甲</Apparello_Syndicatellorare.label>
+  <Apparello_Syndicatellorare.description>孤獨的流浪者在他們遠征或報仇時會穿這樣的東西。</Apparello_Syndicatellorare.description>
+
+
+  <!-- Scyther -->
+
+  <Apparello_Scytherframe.label>原型飛螳模組</Apparello_Scytherframe.label>
+  <Apparello_Scytherframe.description>一個機械飛螳內部的移動增強模組。 警告！ 由於對人體組織的適應性較差，長期使用可能會導致嚴重的肌肉拉傷。
+佩戴者可能會受到不希望的副作用的影響。 包括但不限於：運動功能完全喪失，暈眩和鼻子流血。</Apparello_Scytherframe.description>
+
+
+  <!-- Hive -->
+
+  <Apparello_HiveArmor.label>原型蜂巢裝甲</Apparello_HiveArmor.label>
+  <Apparello_HiveArmor.description>由機械蜈蚣身體結構組成。這個非常笨重的盔甲幾乎堅不可摧。 這件盔甲的重量大大地阻礙了機動性</Apparello_HiveArmor.description>
+
+
+  <!-- Steamhull -->
+
+  <Apparello_Steamhull.label>原型氣動裝甲</Apparello_Steamhull.label>
+  <Apparello_Steamhull.description>飛螳的移動增強組件和蜂巢裝甲重型鍍層的組合。飛螳模組的能源消耗迫使裝甲減震器工作效率降低，從而使佩戴者更容易受傷，但在戰鬥中更高的機動性仍是非常值得的。</Apparello_Steamhull.description>
+
+
+  <!-- Medium power -->
+
+  <Apparello_GShellII.label>軍醫動力裝甲</Apparello_GShellII.label>
+  <Apparello_GShellII.description>中型動力裝甲，為戰鬥醫療設計。隨附推進器和藥物以加快行動和治療</Apparello_GShellII.description>
+
+
+</LanguageData>

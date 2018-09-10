@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Orkpads -->
+
+  <Apparello_Orkpad.label>金屬肩墊</Apparello_Orkpad.label>
+  <Apparello_Orkpad.description>從金屬碎片拼湊而成的肩墊。整裝待發！</Apparello_Orkpad.description>
+
+
+  <!-- Urbalpads -->
+
+  <Apparello_Urpad.label>肩墊</Apparello_Urpad.label>
+  <Apparello_Urpad.description>碎布料拼湊在一起的肩墊。有時甚至是皮革。</Apparello_Urpad.description>
+
+
+  <!-- Belt -->
+
+  <Apparello_Ammobelt.label>子彈帶</Apparello_Ammobelt.label>
+  <Apparello_Ammobelt.description>為攜帶彈藥而設計的腰帶。</Apparello_Ammobelt.description>
+
+
+</LanguageData>

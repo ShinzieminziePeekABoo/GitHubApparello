@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ElMogo -->
+
+  <Apparello_Mogo.label>丘尼卡先知长袍</Apparello_Mogo.label>
+  <Apparello_Mogo.description>先知预言，有一天，有三位流浪神的流星将从天而降。</Apparello_Mogo.description>
+
+
+  <!-- Tunic -->
+
+  <Apparello_Tunic.label>丘尼卡</Apparello_Tunic.label>
+  <Apparello_Tunic.description>非常时尚和巧妙制作的服装能够保护穿戴者免受可怕的威胁。</Apparello_Tunic.description>
+
+
+  <!-- Tribalpads -->
+
+  <Apparello_Tribalpad.label>部落护肩</Apparello_Tribalpad.label>
+  <Apparello_Tribalpad.description>具礼仪性质的护肩。</Apparello_Tribalpad.description>
+
+
+  <!-- Tribalshield -->
+
+  <Apparello_Tribalshield.label>部落盾牌</Apparello_Tribalshield.label>
+  <Apparello_Tribalshield.description>盾牌由木板和皮草制作。希望用防御子弹，并带来盾牌卫队的勇气，这是神圣的部落保护者。</Apparello_Tribalshield.description>
+
+
+</LanguageData>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+
+	<Operation Class="PatchOperationAdd">
+
+		<!-- Add facility link to vanilla bench-->
+
+		<xpath>/Defs/ThingDef[defName = "HiTechResearchBench"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+		<value>
+			<li>ApparelloSchematics</li>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationSequence">
+
+		<!-- check for worn graphics and if none found, add one -->
+
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationTest"> 
+				<xpath>/Defs/ThingDef[defName = "Apparel_Pants"]/apparel/wornGraphicPath</xpath>
+				<success>Invert</success> 
+			</li>
+			<li Class="PatchOperationAdd"> 
+				<xpath>/Defs/ThingDef[defName = "Apparel_Pants"]/apparel</xpath>
+				<value>
+					<wornGraphicPath>Accessorello/Pants/Pants</wornGraphicPath>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+
+
+	<Operation Class="PatchOperationSequence">
+
+		<!-- check for worn graphics and if none found, add one -->
+
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationTest"> 
+				<xpath>/Defs/ThingDef[defName = "Apparel_FlakPants"]/apparel/wornGraphicPath</xpath>
+				<success>Invert</success> 
+			</li>
+			<li Class="PatchOperationAdd"> 
+				<xpath>/Defs/ThingDef[defName = "Apparel_FlakPants"]/apparel</xpath>
+				<value>
+					<wornGraphicPath>Accessorello/Flakpants/Pants</wornGraphicPath>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+
+
+
+
+
+
+
+	<Operation Class="PatchOperationSequence">
+
+		<!-- Researches -->
+
+		<success>Always</success> 
+		<operations>
+			<li Class="PatchOperationTest"> 
+				<xpath>/Defs/ResearchProjectDef[defName = "PoweredArmor"]/tab</xpath>
+				<success>Invert</success> 
+			</li>
+
+			<li Class="PatchOperationRemove"> 
+				<xpath>/Defs/ResearchProjectDef[defName = "PoweredArmor"]/researchViewY</xpath>
+			</li>
+
+			<li Class="PatchOperationReplace"> 
+				<xpath>/Defs/ResearchProjectDef[defName = "PoweredArmor"]/researchViewX</xpath>
+				<value>
+					<researchViewX>4</researchViewX>
+					<researchViewY>0</researchViewY>
+					<tab>ApparelTab</tab>
+
+				</value>
+			</li>
+		</operations>
+	</Operation>
+
+
+
+	<Operation Class="PatchOperationSequence">
+
+		<success>Always</success> 
+		<operations>
+			<li Class="PatchOperationTest"> 
+				<xpath>/Defs/ResearchProjectDef[defName = "ComplexClothing"]/tab</xpath>
+				<success>Invert</success> 
+			</li>
+
+			<li Class="PatchOperationRemove"> 
+				<xpath>/Defs/ResearchProjectDef[defName = "ComplexClothing"]/researchViewY</xpath>
+			</li>
+
+			<li Class="PatchOperationReplace"> 
+				<xpath>/Defs/ResearchProjectDef[defName = "ComplexClothing"]/researchViewX</xpath>
+				<value>
+					<researchViewX>0</researchViewX>
+					<researchViewY>0</researchViewY>
+					<tab>ApparelTab</tab>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+
+
+	
+		<Operation Class="PatchOperationSequence">
+
+		<success>Always</success> 
+		<operations>
+			<li Class="PatchOperationTest"> 
+				<xpath>/Defs/ResearchProjectDef[defName = "ShieldBelt"]/tab</xpath>
+				<success>Invert</success> 
+			</li>
+
+			<li Class="PatchOperationRemove"> 
+				<xpath>/Defs/ResearchProjectDef[defName = "ShieldBelt"]/researchViewY</xpath>
+			</li>
+
+			<li Class="PatchOperationReplace"> 
+				<xpath>/Defs/ResearchProjectDef[defName = "ShieldBelt"]/researchViewX</xpath>
+				<value>
+					<researchViewX>2</researchViewX>
+					<researchViewY>0.5</researchViewY>
+					<tab>ApparelTab</tab>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+
+
+
+	<Operation Class="PatchOperationSequence">
+
+		<!--  <success>Always</success> -->
+		<operations>
+			<li Class="PatchOperationTest"> 
+				<xpath>/Defs/ResearchProjectDef[defName = "SmokepopBelt"]/tab</xpath>
+				<success>Invert</success> 
+			</li>
+
+			<li Class="PatchOperationRemove"> 
+				<xpath>/Defs/ResearchProjectDef[defName = "SmokepopBelt"]/researchViewY</xpath>
+			</li>
+
+			<li Class="PatchOperationReplace"> 
+				<xpath>/Defs/ResearchProjectDef[defName = "SmokepopBelt"]/researchViewX</xpath>
+				<value>
+					<researchViewX>2</researchViewX>
+					<researchViewY>0</researchViewY>
+					<tab>ApparelTab</tab>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<Operation Class="PatchOperationAdd">
+
+		<!-- Trader apparel tag-->
+
+		<xpath>/Defs/PawnKindDef [defName = "Town_Trader"]/apparelTags</xpath>
+		<value>
+				<li>OutlanderTrader</li>			
+		</value>
+	</Operation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Patch>
+
+

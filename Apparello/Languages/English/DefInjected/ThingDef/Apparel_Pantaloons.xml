@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Urbants -->
+
+  <Apparello_Urbskin.label>urban trousers</Apparello_Urbskin.label>
+  <Apparello_Urbskin.description>Trousers with suspenders, leave them hanging for that urban look</Apparello_Urbskin.description>
+
+
+  <!-- Supsy -->
+
+  <Apparello_Suspender.label>stablehand trousers</Apparello_Suspender.label>
+  <Apparello_Suspender.description>Ain't a chap on earf lookin' as honest as one wearin' these. With these equipped one should feel more comfortable wading through mud and filth and therefore more inclined to get the job done without distractions</Apparello_Suspender.description>
+
+
+  <!-- Armor pants -->
+
+  <Apparello_Armorpants.label>padded pants</Apparello_Armorpants.label>
+  <Apparello_Armorpants.description>Pair of pants with extra padding in key locations.</Apparello_Armorpants.description>
+
+
+  <!-- Powerarmor pants -->
+
+  <Apparello_Spacemarinepants.label>spacemarine leggings</Apparello_Spacemarinepants.label>
+  <Apparello_Spacemarinepants.description>Highly advanced plasteel leggings</Apparello_Spacemarinepants.description>
+
+
+  <!-- Glitter pants -->
+
+  <Apparello_Spacerpants.label>enviro-leggings</Apparello_Spacerpants.label>
+  <Apparello_Spacerpants.description>High quality and adapts well to temperature changes. Ideal for space exploration</Apparello_Spacerpants.description>
+
+
+  <!-- Chaps -->
+
+  <Apparello_Chapel.label>chaps</Apparello_Chapel.label>
+  <Apparello_Chapel.description>Chaps with holsters. All the fastest shots wore these. They usually got shot in the back. Tinkle winkle moonshine, probably should wear some pants with these.</Apparello_Chapel.description>
+
+
+  <!-- Tribal pants -->
+
+  <Apparello_TribalPants.label>waistcloth</Apparello_TribalPants.label>
+  <Apparello_TribalPants.description>Waistcloth. They itch a little.</Apparello_TribalPants.description>
+
+
+  <!-- Holdem -->
+
+  <Apparello_Holdem.label>fancy pants</Apparello_Holdem.label>
+  <Apparello_Holdem.description>They're very stylish.</Apparello_Holdem.description>
+
+
+  <!-- Scraps -->
+
+  <Apparello_Scrapants.label>patch pants</Apparello_Scrapants.label>
+  <Apparello_Scrapants.description>very crude and ugly pair of pants.</Apparello_Scrapants.description>
+
+
+  <!-- Polly pocket -->
+
+  <Apparello_Pollypocket.label>cargo pants</Apparello_Pollypocket.label>
+  <Apparello_Pollypocket.description>Trousers with huge pocket space. They help weakened beings to carry more. Ideal for construction purposes.</Apparello_Pollypocket.description>
+
+
+  <!-- Jeans -->
+
+  <Apparello_Jeans.label>jeans</Apparello_Jeans.label>
+  <Apparello_Jeans.description>Sturdy farmer pants. Designed for mucking about on the field.</Apparello_Jeans.description>
+
+
+  <!-- Jodphurs -->
+
+  <Apparello_Jodhpurs.label>jodhpurs</Apparello_Jodhpurs.label>
+  <Apparello_Jodhpurs.description>Anyone wearing these will have a very commanding presence towards simple minded creatures, like animals.</Apparello_Jodhpurs.description>
+
+
+  <!-- Skirt -->
+
+  <Apparello_Skirtwirly.label>skirt</Apparello_Skirtwirly.label>
+  <Apparello_Skirtwirly.description>For when your legs need all that extra space.</Apparello_Skirtwirly.description>
+
+
+  <!-- Lederhose -->
+
+  <Apparello_Lederhose.label>leather pants</Apparello_Lederhose.label>
+  <Apparello_Lederhose.description>Leather pants (sometimes even real leather!) The punk wearing these will always feel lucky.</Apparello_Lederhose.description>
+
+
+  <!-- Checkers -->
+
+  <Apparello_square.label>checkered trousers</Apparello_square.label>
+  <Apparello_square.description>Checkered and ready to go!.</Apparello_square.description>
+
+
+</LanguageData>

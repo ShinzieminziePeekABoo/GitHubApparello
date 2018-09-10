@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Orkpads -->
+
+  <Apparello_Orkpad.label>metal shoulderpads</Apparello_Orkpad.label>
+  <Apparello_Orkpad.description>Shoulderpads cobbled together from metal scraps. All painted and ready for action!</Apparello_Orkpad.description>
+
+
+  <!-- Urbalpads -->
+
+  <Apparello_Urpad.label>shoulderpads</Apparello_Urpad.label>
+  <Apparello_Urpad.description>Shoulderpads cobbled together from urban scraps. Sometimes even leather</Apparello_Urpad.description>
+
+
+  <!-- Belt -->
+
+  <Apparello_Ammobelt.label>bandolier</Apparello_Ammobelt.label>
+  <Apparello_Ammobelt.description>Belt designed for carrying ammunition.</Apparello_Ammobelt.description>
+
+
+</LanguageData>

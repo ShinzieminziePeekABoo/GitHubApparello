@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+
+<!-- =====Flip flap ^;;^ Bring me a bat===== -->
+ 
+
+	<!--ElMogo-->
+
+  <ThingDef ParentName="ApparelloBase">
+    <defName>Apparello_Mogo</defName>
+    <label>tunica el mógo</label> 
+    <description>Ritual vestments of the ancient, now extinct tribe - Chéw ón Tuna Sámmich - 
+El Mógo for short. The El Mógoan Muffalo Prophets' prophecied of a day when three meteors, bearing sleeping gods would descent from the skies. Common belief was that the gods would build a lift to the spirit realms.
+These vestments were created in the intent of binding the soul of slain gods to the wearer and thus gaining passage on the lift.</description>
+
+    <graphicData>
+      <texPath>Apparel/Display/Mogo</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+
+    <tradeability>Sellable</tradeability>
+
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+
+    <statBases>
+		      <WorkToMake>11000</WorkToMake>
+		      <Mass>1.40</Mass>
+      <MarketValue>500</MarketValue>
+      <StuffEffectMultiplierArmor>0.3</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.42</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.10</StuffEffectMultiplierInsulation_Heat>
+      <EquipDelay>1.5</EquipDelay>
+
+    </statBases>
+    <equippedStatOffsets>
+      <MoveSpeed>-0.03</MoveSpeed>
+      <NegotiationAbility>0.25</NegotiationAbility>
+      <PsychicSensitivity>-0.05</PsychicSensitivity>
+    </equippedStatOffsets>
+		<generateCommonality>1</generateCommonality>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Apparel/Mogo/lp</wornGraphicPath>
+      <layers>
+        <li>OnSkin</li>
+        <li>Middle</li>
+        <li>Shell</li>
+      </layers>
+      <tags>
+        <li>Neolithic</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Worker</li>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+    </apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>RGBA(0.4,0.3,0.15,1)</only>
+				</li>
+				<li>
+					<weight>15</weight>
+					<only>RGBA(0.6,0.45,0.18,1)</only>
+				</li>
+				<li>
+					<weight>20</weight>
+					<only>RGBA(0.8,0.6,0.23,1)</only>
+				</li>
+				<li>
+					<weight>6</weight>
+					<max>RGBA(1,1,0.90,1)</max>
+					<min>RGBA(1,0.90,0.75,1)</min>
+				</li>
+			</options>
+		</colorGenerator>
+  </ThingDef>
+
+
+
+  
+  
+  
+  	<!--Tunic-->
+
+  <ThingDef ParentName="ApparelloVanillaBase">
+    <defName>Apparello_Tunic</defName>
+    <label>tunic</label>
+    <description>Very sleek and skillfully crafted suit capable of protecting the wearer from formidable threats.</description>
+
+    <graphicData>
+      <texPath>Apparel/Display/MogoSimple</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+
+    <costStuffCount>35</costStuffCount>
+    <stuffCategories>
+      <li>Leathery</li>
+      <li>Fabric</li>
+    </stuffCategories>
+    <tradeability>Sellable</tradeability>
+
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+
+    <statBases>
+		      <Mass>0.20</Mass>
+      <WorkToMake>9000</WorkToMake>
+      <StuffEffectMultiplierArmor>0.3</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.42</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.10</StuffEffectMultiplierInsulation_Heat>
+      <EquipDelay>1.5</EquipDelay>
+    </statBases>
+
+    <recipeMaker>
+      <researchPrerequisite>ApparelloTribalwearDesign</researchPrerequisite>
+      <workSpeedStat>TailoringSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Tailor</effectWorking>
+      <soundWorking>Recipe_Tailor</soundWorking>
+      <recipeUsers>
+        <li>ElectricTailoringBench</li>
+        <li>HandTailoringBench</li>
+        <li>CraftingSpot</li>
+      </recipeUsers>
+
+    </recipeMaker>
+		<generateCommonality>1</generateCommonality>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Apparel/MogoSimple/lp</wornGraphicPath>
+      <layers>
+        <li>OnSkin</li>
+      </layers>
+      <tags>
+        <li>Neolithic</li>
+        <li>TribalTrader</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Worker</li>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+    </apparel>
+    <colorGenerator Class="ColorGenerator_StandardApparel" />
+  </ThingDef>
+  
+  
+  
+  
+  	<!--Tribalpads-->
+
+  <ThingDef ParentName="ApparelloBase">
+    <defName>Apparello_Tribalpad</defName>
+    <description>Ceremonial shoulderguard</description>
+    <label>tribal shoulderpads</label>
+
+    <graphicData>
+      <texPath>Apparel/Display/Tripads</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+
+    <recipeMaker>
+      <workSpeedStat>TailoringSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Tailor</effectWorking>
+      <soundWorking>Recipe_Tailor</soundWorking>
+      <researchPrerequisite>ApparelloTribalwearDesign</researchPrerequisite>
+      <recipeUsers>
+        <li>ElectricTailoringBench</li>
+        <li>HandTailoringBench</li>
+        <li>CraftingSpot</li>
+      </recipeUsers>
+    </recipeMaker>
+
+    <tradeability>Sellable</tradeability>
+    <costStuffCount>15</costStuffCount>
+    <stuffCategories>
+      <li>Fabric</li>
+      <li>Leathery</li>
+    </stuffCategories>
+
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+
+    <statBases>
+		      <Mass>0.10</Mass>
+      <Insulation_Heat>1</Insulation_Heat>
+    </statBases>
+		<generateCommonality>0.1</generateCommonality>
+    <apparel>
+			<careIfWornByCorpse>false</careIfWornByCorpse>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Shoulders</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Apparel/Tripads/Apron</wornGraphicPath>
+      <layers>
+        <li>Shell</li>
+        <li>Middle</li>
+      </layers>
+      <tags>
+        <li>Neolithic</li>
+	<li>TribalTrader</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Worker</li>
+      </defaultOutfitTags>
+    </apparel>
+
+    <colorGenerator Class="ColorGenerator_StandardApparel" />
+  </ThingDef>
+
+
+
+
+
+	<!--Tribalshield-->
+
+  <ThingDef ParentName="ApparelloBase">
+    <defName>Apparello_Tribalshield</defName>
+    <description>Shield made of planks and padding. Used by native tribes in hopes to deflect bullets and to summon the courage of the great 'Shiled-Sheild Téh Gaurdian' A Godly protector of the tribes.</description>
+    <label>tribal shield</label>
+
+    <graphicData>
+      <texPath>Apparel/Display/MogoShield</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+
+    <tradeability>Sellable</tradeability>
+    <costStuffCount>15</costStuffCount>
+    <stuffCategories>
+      <li>Leathery</li>
+      <li>Fabric</li>
+      <li>Woody</li>
+    </stuffCategories>
+
+    <recipeMaker>
+      <workSpeedStat>TailoringSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Tailor</effectWorking>
+      <soundWorking>Recipe_Tailor</soundWorking>
+      <researchPrerequisite>ApparelloTribalwearDesign</researchPrerequisite>
+      <recipeUsers>
+        <li>ElectricTailoringBench</li>
+        <li>HandTailoringBench</li>
+        <li>CraftingSpot</li>
+      </recipeUsers>
+    </recipeMaker>
+
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+
+    <statBases>
+		      <Mass>0.40</Mass>
+      <StuffEffectMultiplierArmor>0.4</StuffEffectMultiplierArmor>
+    </statBases>
+		<generateCommonality>0.1</generateCommonality>
+    <apparel>
+			<careIfWornByCorpse>false</careIfWornByCorpse>
+      <bodyPartGroups>
+        <li>Arms</li>
+        <li>LeftHand</li>
+        <li>Shoulders</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Apparel/MogoShield/Shield</wornGraphicPath>
+      <layers>
+        <li>Shell</li>
+      </layers>
+      <tags>
+        <li>Neolithic</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+    </apparel>
+
+    <colorGenerator Class="ColorGenerator_StandardApparel" />
+  </ThingDef>
+  
+
+
+
+
+
+
+</Defs>

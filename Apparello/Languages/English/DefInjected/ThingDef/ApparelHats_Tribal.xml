@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mojo -->
+
+  <Apparello_Mojo.label>modest tribal Mask</Apparello_Mojo.label>
+  <Apparello_Mojo.description>Basic tribal mask, for that wooden impression.</Apparello_Mojo.description>
+
+  <Apparello_Mojotwo.label>gaudy tribal Mask</Apparello_Mojotwo.label>
+  <Apparello_Mojotwo.description>Makes you look ever so slightly more sociable.</Apparello_Mojotwo.description>
+
+
+  <!-- Mojo Fether -->
+
+  <Apparello_MojoFeather.label>tribal headdress</Apparello_MojoFeather.label>
+  <Apparello_MojoFeather.description>Tribal headdress or a foot bottom torturing device. It's very feathery</Apparello_MojoFeather.description>
+
+
+</LanguageData>

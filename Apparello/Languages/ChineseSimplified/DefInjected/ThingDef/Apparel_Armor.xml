@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sheet -->
+
+  <Apparello_Sheet.label>填充背心</Apparello_Sheet.label>
+  <Apparello_Sheet.description>粗糙的皮革衬垫用以增加保护，免於钝器伤害。</Apparello_Sheet.description>
+
+
+  <!-- Glitter vest -->
+
+  <Apparello_Gspot.label>合金背心</Apparello_Gspot.label>
+  <Apparello_Gspot.description>在闪光世界标准的保护背心。由多层非常轻但强的合金制成。</Apparello_Gspot.description>
+
+
+  <!-- Glitter shell -->
+
+  <Apparello_Gshell.label>轻型动力护甲</Apparello_Gshell.label>
+  <Apparello_Gshell.description>轻型装备加上推进器的护甲，它可以使运动速度稍快。</Apparello_Gshell.description>
+
+
+  <!-- Syndicate -->
+
+  <Apparello_Syndicatetello.label>护盾外套</Apparello_Syndicatetello.label>
+  <Apparello_Syndicatetello.description>一件带防弹合金胸甲的长外套，装有个人护盾。</Apparello_Syndicatetello.description>
+
+
+  <!-- Joywirer -->
+
+  <Apparello_Medicade.label>乐丝西装</Apparello_Medicade.label>
+  <Apparello_Medicade.description>所有穿这些服装的人都知道如何与客户交谈，或者至少让他们知道自己在做什麽。</Apparello_Medicade.description>
+
+
+</LanguageData>

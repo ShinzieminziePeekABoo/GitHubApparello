@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparellosets.label>Apparello服装</Apparellosets.label>
+  <ApparelloMedicalSet.label>医疗</ApparelloMedicalSet.label>
+  <ApparelloCrafterSet.label>工作</ApparelloCrafterSet.label>
+  <ApparelloConstructionSet.label>建造</ApparelloConstructionSet.label>
+  <ApparelloSetCookie.label>烹饪</ApparelloSetCookie.label>
+  <ApparelloSetCrafterer.label>制造</ApparelloSetCrafterer.label>
+  <ApparelloGrowerSet.label>种植</ApparelloGrowerSet.label>
+  <ApparelloHandlingSet.label>训兽</ApparelloHandlingSet.label>
+  <ApparelloResearchSet.label>研究</ApparelloResearchSet.label>
+  <ApparelloSocialSet.label>社交</ApparelloSocialSet.label>
+
+
+  <!-- <ThingCategoryDef>
+			    <defName>ApparelloSetWarden</defName>
+			    <label>warden</label>
+			    <parent>ApparelloSocialSet</parent>
+			  </ThingCategoryDef>
+
+			  <ThingCategoryDef>
+			    <defName>ApparelloSetTrader</defName>
+			    <label>trader</label>
+			    <parent>ApparelloSocialSet</parent>
+			  </ThingCategoryDef>
+
+			  <ThingCategoryDef>
+			    <defName>ApparelloSetSocialite</defName>
+			    <label>socialite</label>
+			    <parent>ApparelloSocialSet</parent>
+			  </ThingCategoryDef>
+
+			  <ThingCategoryDef>
+			    <defName>ApparelloSetDiplomat</defName>
+			    <label>lobbyist</label>
+			    <parent>ApparelloSocialSet</parent>
+			  </ThingCategoryDef> -->
+
+  <ApparelloWombatSet.label>战斗</ApparelloWombatSet.label>
+  <ApparelloSetRachel.label>枪手</ApparelloSetRachel.label>
+  <ApparelloSetMelodie.label>战士</ApparelloSetMelodie.label>
+  <ApparelloSomerset.label>夏装</ApparelloSomerset.label>
+  <ApparelloWinterwald.label>冬装</ApparelloWinterwald.label>
+
+
+  <!-- Hat main -->
+
+  <Apparellohats.label>帽子apparello headgear</Apparellohats.label>
+  <Apparelloeyehats.label>眼镜</Apparelloeyehats.label>
+
+
+  <!-- Other -->
+
+  <Accessorellocategory.label>其他</Accessorellocategory.label>
+  <Apparellopanties.label>裤子</Apparellopanties.label>
+  <ApparelloRarities.label>稀有装备</ApparelloRarities.label>
+
+
+</LanguageData>

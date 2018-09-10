@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ApparelloResearchDesign.label>服裝設計和圖案</ApparelloResearchDesign.label>
+  <ApparelloResearchDesign.description>美化服裝的一些配件或成分，使它們更適合被穿著。為你的裁縫台解鎖幾個新的服裝配方。</ApparelloResearchDesign.description>
+
+  <ApparelloResearchQuilting.label>絎縫</ApparelloResearchQuilting.label>
+  <ApparelloResearchQuilting.description>用於製造結實的布料和皮革的技術。允許製造填充護甲。</ApparelloResearchQuilting.description>
+
+  <ApparelloResearchWork.label>安全標準</ApparelloResearchWork.label>
+  <ApparelloResearchWork.description>工作安全和衛生是保持健康的關鍵。意外可能發生，這是值得準備的。 允許按現代的安全和衛生標準在裁縫台上製作服裝。</ApparelloResearchWork.description>
+
+  <ApparelloResearchLPOW.label>服裝增強</ApparelloResearchLPOW.label>
+  <ApparelloResearchLPOW.description>允許建造縫紉加工台，以增強一些服裝。 允許您在加工台上製造更先進的輕步兵服裝和裝備。</ApparelloResearchLPOW.description>
+
+  <ApparelloResearchPrototype.label>原型裝備</ApparelloResearchPrototype.label>
+  <ApparelloResearchPrototype.description>研究那些雜亂的圖紙，找出有什麼值得的部分。</ApparelloResearchPrototype.description>
+
+  <ApparelloTribalwearDesign.label>部落裝飾</ApparelloTribalwearDesign.label>
+  <ApparelloTribalwearDesign.description>解鎖一些更體面的部落服裝。</ApparelloTribalwearDesign.description>
+
+
+</LanguageData>

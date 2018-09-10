@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Doom, Doom marine -->
+
+  <Apparello_Doom.label>陆战队头盔</Apparello_Doom.label>
+  <Apparello_Doom.description>在火星科学设施事件中，陆战队使用的B4D-455级步兵头盔。这些生产自此中断了。一个遥远过去的产物。</Apparello_Doom.description>
+
+
+  <!-- Cave Story (Doukutsu Monogatari), Quote -->
+
+  <Apparello_Quote.label>战斗工程师的通讯装置</Apparello_Quote.label>
+  <Apparello_Quote.description>通常被称为红帽。战争工程师负责保持供应线的运转。
+	</Apparello_Quote.description>
+
+
+  <!-- Borderlands, Psycho -->
+
+  <Apparel_Psymask.label>疯子防毒面具</Apparel_Psymask.label>
+  <Apparel_Psymask.description>允许佩戴者在最厚的毒云中工作，更重要的是，生存。</Apparel_Psymask.description>
+
+
+  <!-- Zorro, Zorro -->
+
+  <Apparello_Zorro.label>流浪者帽子和面具</Apparello_Zorro.label>
+  <Apparello_Zorro.description>这件服装是根据传说中的治安官埃尔·福克斯所使用的着名帽子制作的 - “高贵的敌人！ 你无法避免正义 - 治安正义！"</Apparello_Zorro.description>
+
+
+  <!-- Turtles, Footclan -->
+
+  <Apparello_Footy.label>氏族印记面具</Apparello_Footy.label>
+  <Apparello_Footy.description>额头上的印记强烈表明它确实是古代氏族的遗物。</Apparello_Footy.description>
+
+
+  <!-- Mass Effect, Tali Zorah -->
+
+  <Apparello_Meffect.label>优质适应性面罩</Apparello_Meffect.label>
+  <Apparello_Meffect.description>为深空探索者设计的气密头盔，温暖舒适，最重要的是可以抵御无法居住的行星上的致命细菌。</Apparello_Meffect.description>
+
+
+  <!-- cowless -->
+
+  <Apparello_Meffectwo.label>适应性面罩</Apparello_Meffectwo.label>
+  <Apparello_Meffectwo.description>为深空探索者设计的气密头盔，可以抵御无法居住的行星上的致命细菌。</Apparello_Meffectwo.description>
+
+
+  <!-- MDK, Kurt Hectic -->
+
+  <Apparello_Kurt.label>航空面罩 MkII</Apparello_Kurt.label>
+  <Apparello_Kurt.description>库尔特科技创造的巧妙设计。这不是一个真正的面罩，但在这一点上，重命名它为时已晚。</Apparello_Kurt.description>
+
+  <Apparello_Kurtlite.label>航空面罩</Apparello_Kurtlite.label>
+  <Apparello_Kurtlite.description>库尔特科技创造的巧妙设计。</Apparello_Kurtlite.description>
+
+
+  <!-- Mega Man, Mega Man -->
+
+  <Apparello_Rockman.label>飞行员头盔</Apparello_Rockman.label>
+  <Apparello_Rockman.description>所有着名的飞行员都穿戴着它，其中一些比其他人更有装饰性。这是更实际和基本的一个。</Apparello_Rockman.description>
+
+
+  <!-- Mad Max beyond thuderdome, Raider -->
+
+  <Apparello_Raideroos.label>外来者报废面具</Apparello_Raideroos.label>
+  <Apparello_Raideroos.description>东西看似从垃圾堆里直接了拉出来。有一种特殊的魅力。</Apparello_Raideroos.description>
+
+
+  <!-- League of Legends, Master Yi (Close enough, anyway) -->
+
+  <Apparello_Yi.label>渗透者面罩</Apparello_Yi.label>
+  <Apparello_Yi.description>配备非常复杂的目标跟踪系统和路径分析器，在刺客和各种间谍中很受欢迎。 </Apparello_Yi.description>
+
+
+  <!-- Psychonauts, Razputin -->
+
+  <Apparello_Raz.label>乐丝便帽</Apparello_Raz.label>
+  <Apparello_Raz.description>硬化的皮革和时髦的护目镜。就好像你可以通过装备这个帽子的人使你的灵魂飞行！</Apparello_Raz.description>
+
+
+</LanguageData>

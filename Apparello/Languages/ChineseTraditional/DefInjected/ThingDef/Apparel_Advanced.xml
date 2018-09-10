@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Jumpsuit -->
+
+  <Apparello_GSkin.label>連身衣</Apparello_GSkin.label>
+  <Apparello_GSkin.description>一件基本的連身衣， 普遍於閃耀世界的輕步兵和官員，特別是需要吸熱性能消防員。</Apparello_GSkin.description>
+
+
+  <!-- Overall -->
+
+  <Apparello_XcomOne.label>連身工作服</Apparello_XcomOne.label>
+  <Apparello_XcomOne.description>眾所周知，宇宙飛船工程師們穿上提供保護的工作服以抵抗他們最大的敵人：電纜。</Apparello_XcomOne.description>
+
+
+  <!-- Xcom Overalls -->
+
+  <Apparello_Standissue.label>標準軍事工作服</Apparello_Standissue.label>
+  <Apparello_Standissue.description>標準空軍事工作服，在軌道空降部隊非常常見。</Apparello_Standissue.description>
+
+
+  <!-- Doctor apron -->
+
+  <Apparello_MedicalApron.label>外科圍裙</Apparello_MedicalApron.label>
+  <Apparello_MedicalApron.description>漂亮的塑膠圍裙，在鮮血會噴出的場合下你將會需要。</Apparello_MedicalApron.description>
+
+
+  <!-- Lefer Apron -->
+
+  <Apparello_Smithaprontosaurus.label>圍兜圍裙</Apparello_Smithaprontosaurus.label>
+  <Apparello_Smithaprontosaurus.description>這類硬化皮革圍裙被許多行業的專業人士使用。</Apparello_Smithaprontosaurus.description>
+
+
+  <!-- Clof Apron -->
+
+  <Apparello_Cookaprontosaurus.label>圍裙</Apparello_Cookaprontosaurus.label>
+  <Apparello_Cookaprontosaurus.description>專門用於提高家務經驗的獨立式圍裙。這是一個衛生的東西，你不明白。</Apparello_Cookaprontosaurus.description>
+
+
+  <!-- Joywirer -->
+
+  <!--[Duplicated] <Apparello_Medicade.label>樂絲絲綢背心</Apparello_Medicade.label>-->
+  <!--[Duplicated] <Apparello_Medicade.description>所有穿這些服裝的人都知道如何與客戶交談，或者至少讓他們知道自己在做什麼。</Apparello_Medicade.description>-->
+
+
+  <!-- Sand Trader -->
+
+  <Apparello_Trypophobia.label>商人大衣</Apparello_Trypophobia.label>
+  <Apparello_Trypophobia.description>"什麼是商人？一堆可憐的袋子" - 在被憤怒的暴民們私刑前的一瞬間 - 德拉瓦尼亞。</Apparello_Trypophobia.description>
+
+
+  <!-- Poncho -->
+
+  <Apparello_PonPon.label>斗篷</Apparello_PonPon.label>
+  <Apparello_PonPon.description>槍手的第二好朋友，在左輪手槍和牛仔帽之後！ 不，等等，這是第三好的。</Apparello_PonPon.description>
+
+
+  <!-- Long coat -->
+
+  <Apparello_Longlylonglong.label>長大衣</Apparello_Longlylonglong.label>
+  <Apparello_Longlylonglong.description>非常非常溫暖。</Apparello_Longlylonglong.description>
+
+
+  <!-- SkullJacket -->
+
+  <Apparello_Skull.label>突襲者夾克</Apparello_Skull.label>
+  <Apparello_Skull.description>你的基本夾克加上粗糙的肩墊和尖釘。</Apparello_Skull.description>
+
+
+  <!-- Preston -->
+
+  <Apparello_Preston.label>軍服外套</Apparello_Preston.label>
+  <Apparello_Preston.description>船長的軍服外套，賦予穿戴者非常高的存在感。</Apparello_Preston.description>
+
+
+  <!-- Brocade -->
+
+  <Apparello_Brocade.label>絲綢背心</Apparello_Brocade.label>
+  <Apparello_Brocade.description>始終保持沉穩和自律。</Apparello_Brocade.description>
+
+
+  <!-- UrbzShirt -->
+
+  <Apparello_Urbulence.label>網眼襯衣</Apparello_Urbulence.label>
+  <Apparello_Urbulence.description>所有穿著這些衣服的朋克都覺得很幸運。</Apparello_Urbulence.description>
+
+
+</LanguageData>

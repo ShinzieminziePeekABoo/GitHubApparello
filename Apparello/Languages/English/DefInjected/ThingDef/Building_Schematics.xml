@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ApparelloSchematics.label>Schematic cabinet</ApparelloSchematics.label>
+  <ApparelloSchematics.description>Can be connected to research bench and Tinkering bench. Increases research and work speed. This cabinet contains schematics and patterns. Each scribbled full of drafts for gear that couldn't possibly even work.. or could they? Atleast they're a source of inspiration.</ApparelloSchematics.description>
+  <ApparelloSchematics_Blueprint_Install.label>Schematic cabinet (blueprint)</ApparelloSchematics_Blueprint_Install.label>
+
+
+</LanguageData>

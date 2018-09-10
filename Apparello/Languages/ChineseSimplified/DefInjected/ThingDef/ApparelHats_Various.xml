@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wendy -->
+
+  <Apparello_Wendywelder.label>焊接面具</Apparello_Wendywelder.label>
+  <Apparello_Wendywelder.description>他们眼中的小火花据说是坏东西。尽管如此，它们从未准备伤害任何人。</Apparello_Wendywelder.description>
+
+
+  <!-- Hardhat -->
+
+  <Apparello_Hardhat.label>工地头盔</Apparello_Hardhat.label>
+  <Apparello_Hardhat.description>受整个银河系建筑工人的青睐。众所周知，已经从锤子或砖块底下挽救了许多人的生命。</Apparello_Hardhat.description>
+
+
+  <!-- Chef -->
+
+  <Apparello_Chefhat.label>厨师帽</Apparello_Chefhat.label>
+  <Apparello_Chefhat.description>这些厨师帽确实有一个实际的目的-保持头发整理。在你的汤里发现头发往往意味着不满意的顾客。</Apparello_Chefhat.description>
+
+
+  <!-- Chefplus -->
+
+  <Apparello_Chefhatplus.label>工匠厨师帽</Apparello_Chefhatplus.label>
+  <Apparello_Chefhatplus.description>配备计时器和非常基本的气味检测器可以帮助任何人正确烹饪膳食。 它上面的厨师帽只是为了宣告这个帽子的目的。</Apparello_Chefhatplus.description>
+
+
+  <!-- Cyberninja -->
+
+  <Apparello_Cyninja.label>战术小队面罩</Apparello_Cyninja.label>
+  <Apparello_Cyninja.description>为了战术小队进行城市巷战的设计。预装了速度助推器和内置瞄准辅助。 它确实将佩戴者的大脑暴露在最低限度和完全可接受的放射性水平，这是可以的！</Apparello_Cyninja.description>
+
+
+  <!-- Medic -->
+
+  <Apparello_Medihelmet.label>军医头盔</Apparello_Medihelmet.label>
+  <Apparello_Medihelmet.description>个人装甲的基本部分。用来帮助吸收手榴弹的爆炸。</Apparello_Medihelmet.description>
+
+
+  <!-- AI proto -->
+
+  <Apparello_Proto.label>神经强化者原型</Apparello_Proto.label>
+  <Apparello_Proto.description>旨在提高突触反应速率的创新头饰原型。它有一些非常令人厌恶的副作用，如过度的紧张，耳鸣，奇怪的背景噪音和声音。</Apparello_Proto.description>
+
+
+  <!-- AI protofin -->
+
+  <Apparello_ProtoFin.label>神经强化者面罩</Apparello_ProtoFin.label>
+  <Apparello_ProtoFin.description>旨在提高突触反应率的创新头饰。尽管没有以前那麽糟糕，但它仍然有一些非常令人厌恶的副作用。把先进的AI核心放在它上面似乎解决了大部分的问题。不幸的是，人工智能的核心也放大了佩戴者的精神敏感度，使他们的精神力量极其脆弱。</Apparello_ProtoFin.description>
+
+
+  <!-- Commissar -->
+
+  <Apparello_Commissar.label>大盘帽</Apparello_Commissar.label>
+  <Apparello_Commissar.description>常见於军官或治安人员。</Apparello_Commissar.description>
+
+
+  <!-- Gas -->
+
+  <Apparello_Gassy.label>防毒面具</Apparello_Gassy.label>
+  <Apparello_Gassy.description>笨重的面具保护免受有毒气体攻击，由於更好的更先进的替代品，不再普遍使用。但仍然受到许多突袭者的青睐。</Apparello_Gassy.description>
+
+
+  <!-- Cybissar -->
+
+  <Apparello_Cybissar.label>战术小队面罩含帽</Apparello_Cybissar.label>
+  <Apparello_Cybissar.description>这只是一个战术小队面罩，附有大盘帽，非常整齐。</Apparello_Cybissar.description>
+
+
+  <!-- Nurse -->
+
+  <Apparello_Medband.label>军医头巾</Apparello_Medband.label>
+  <Apparello_Medband.description>军医的头巾。用来指出那些不应该从人群中被枪杀的人。在边缘世界几乎没有遵循这样的规则。</Apparello_Medband.description>
+
+
+  <!-- Surgeon -->
+
+  <Apparello_Docteur.label>外科面罩</Apparello_Docteur.label>
+  <Apparello_Docteur.description>在摆弄别人的重要器官时，卫生设备是至关重要的。佩戴护目镜可以增强医生的视力。手术口罩可防止有害细菌进入患者体内。</Apparello_Docteur.description>
+
+
+  <!-- Farmhat -->
+
+  <Apparello_Plainhat.label>木栓帽</Apparello_Plainhat.label>
+  <Apparello_Plainhat.description>这个帽子设计给那些在沙漠平原上工作硬汉，那里的风力足够大，可以吹飞人的帽子，太阳如此灼烈，足以使公牛虚脱。</Apparello_Plainhat.description>
+
+
+  <!-- Vodkafur -->
+
+  <Apparello_Furhat.label>苏联毛帽</Apparello_Furhat.label>
+  <Apparello_Furhat.description>在寒冷的气候中保持头部温暖，戴上毛皮！但是，毛皮也穿戴着你！</Apparello_Furhat.description>
+
+
+  <!-- Bad nit -->
+
+  <Apparello_Bandit.label>强盗围巾</Apparello_Bandit.label>
+  <Apparello_Bandit.description>如果没有戴上围巾，抢劫一辆马车从未像现在这样有趣。围巾对於有毒的沙尘暴具有些微的抵抗力。</Apparello_Bandit.description>
+
+
+  <!-- Cardshark -->
+
+  <Apparello_Cardshark.label>老千帽</Apparello_Cardshark.label>
+  <Apparello_Cardshark.description>时尚，优雅，触感柔软。被称为西方服装最重要的部分。特别是在牌桌上出千的时候。</Apparello_Cardshark.description>
+
+
+  <!-- Sand trader -->
+
+  <Apparello_Sandtrader.label>商队面罩含帽</Apparello_Sandtrader.label>
+  <Apparello_Sandtrader.description>旅行商人使用它来保护他们的脸免受沙尘暴，有毒的沉积物等。</Apparello_Sandtrader.description>
+
+
+  <!-- Tradecone -->
+
+  <Apparello_Tradecone.label>斗笠</Apparello_Tradecone.label>
+  <Apparello_Tradecone.description>旅行商人和稻田农民经常用这样的帽子保护自己免受太阳的侵害。 它有非常东方的感觉。</Apparello_Tradecone.description>
+
+
+  <!-- Fedora -->
+
+  <Apparello_Fedora.label>软呢帽</Apparello_Fedora.label>
+  <Apparello_Fedora.description>戴这顶帽子的人往往与流氓和政府官员，反正两者几乎是相同的。</Apparello_Fedora.description>
+
+
+  <!-- Headset -->
+
+  <Apparello_Headset.label>耳机与头巾</Apparello_Headset.label>
+  <Apparello_Headset.description>这些通常用於沟通但它是无线的，所以根本不起作用。但它给人的印像是，更有社交能力。</Apparello_Headset.description>
+
+
+  <!-- Beret -->
+
+  <Apparello_Beret.label>贝雷帽</Apparello_Beret.label>
+  <Apparello_Beret.description>柔软，保持头部温暖。在士兵和高级军官中非常普遍。制服通常会激发人们的尊重，但也会造成佩戴者严峻的形象</Apparello_Beret.description>
+
+
+  <!-- McDuck -->
+
+  <Apparello_Tophat.label>高顶礼帽</Apparello_Tophat.label>
+  <Apparello_Tophat.description>在边缘世界非常稀有，它让配戴者感受其他人的弱小。</Apparello_Tophat.description>
+
+
+  <!-- Bandal -->
+
+  <Apparello_Bandal.label>棒球帽</Apparello_Bandal.label>
+  <Apparello_Bandal.description>棒球专用的帽子，也许是最有名的从古老游戏，你打你的球，然後跑回本垒。这是一个非常暴力的游戏，完全基於肮脏的命中和运行战术。谢天谢地，这个时代不需要再练习了。</Apparello_Bandal.description>
+
+
+  <!-- Vandal -->
+
+  <Apparello_Vandal.label>围巾</Apparello_Vandal.label>
+  <Apparello_Vandal.description>通常会在抢劫当地角落店的时候穿上这些东西。这类犯罪分子因其手指发痒，瞄准不良，以投掷砖块和垃圾桶砸死人而闻名。围巾提供些微的毒性抵抗。</Apparello_Vandal.description>
+
+
+  <!-- LeCap -->
+
+  <Apparello_Lecap.label>克皮帽</Apparello_Lecap.label>
+  <Apparello_Lecap.description>他是许多军队制服中最重要的一部分。</Apparello_Lecap.description>
+
+
+  <!-- Hood -->
+
+  <Apparello_Hood.label>头罩</Apparello_Hood.label>
+  <Apparello_Hood.description>在黑暗的小巷里，你看到的那种黑衣人的穿着，用闪闪发光的眼睛瞪着你，捅进去罗..</Apparello_Hood.description>
+
+
+  <!-- Sombrero -->
+
+  <Apparello_Sombrero.label>宽边帽</Apparello_Sombrero.label>
+  <Apparello_Sombrero.description>在午睡期间避免阳光直射你的眼睛！</Apparello_Sombrero.description>
+
+
+  <!-- Unique Morion -->
+
+  <Apparello_Moron.label>探险家头盔</Apparello_Moron.label>
+  <Apparello_Moron.description>17世纪的头盔，在中世界非常普遍。</Apparello_Moron.description>
+
+
+</LanguageData>

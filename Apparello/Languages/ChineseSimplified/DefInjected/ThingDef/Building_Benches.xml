@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ApparelloTinkerer.label>缝纫加工台</ApparelloTinkerer.label>
+  <ApparelloTinkerer.description>一个工作台，有一套强化工具。在没电时工作速度只有平时的40%。</ApparelloTinkerer.description>
+  <ApparelloTinkerer_Blueprint.label>缝纫加工台 (蓝图)</ApparelloTinkerer_Blueprint.label>
+  <ApparelloTinkerer_Blueprint_Install.label>缝纫加工台 (蓝图)</ApparelloTinkerer_Blueprint_Install.label>
+  <ApparelloTinkerer_Frame.label>缝纫加工台 (蓝图)</ApparelloTinkerer_Frame.label>
+  <ApparelloTinkerer_Frame.description>一个工作台，有一套强化工具。在没电时工作速度只有平时的40%。</ApparelloTinkerer_Frame.description>
+
+
+</LanguageData>

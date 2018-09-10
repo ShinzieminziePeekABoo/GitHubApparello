@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Urbants -->
+
+  <Apparello_Urbskin.label>都市裤子</Apparello_Urbskin.label>
+  <Apparello_Urbskin.description>带吊带的裤子，让他们符合都市的风格</Apparello_Urbskin.description>
+
+
+  <!-- Supsy -->
+
+  <Apparello_Suspender.label>低调裤子</Apparello_Suspender.label>
+  <Apparello_Suspender.description>穿着它看起来是不是像一个诚实的家伙。 有了这些装备的人，应该感到更加舒适，即使附近有泥土和污垢也能倾向於完成工作不会分心。</Apparello_Suspender.description>
+
+
+  <!-- Armor pants -->
+
+  <Apparello_Armorpants.label>填充裤子</Apparello_Armorpants.label>
+  <Apparello_Armorpants.description>一件裤子，在关键位置有额外的保护。</Apparello_Armorpants.description>
+
+
+  <!-- Powerarmor pants -->
+
+  <Apparello_Spacemarinepants.label>陆战队护腿</Apparello_Spacemarinepants.label>
+  <Apparello_Spacemarinepants.description>高度先进的护腿。</Apparello_Spacemarinepants.description>
+
+
+  <!-- Glitter pants -->
+
+  <Apparello_Spacerpants.label>适应性护腿</Apparello_Spacerpants.label>
+  <Apparello_Spacerpants.description>高品质，适应温度变化。理想的太空探索。</Apparello_Spacerpants.description>
+
+
+  <!-- Chaps -->
+
+  <Apparello_Chapel.label>腰带</Apparello_Chapel.label>
+  <Apparello_Chapel.description>简单的腰带，只配戴它的士兵通常是军队里最快被射杀的人。</Apparello_Chapel.description>
+
+
+  <!-- Tribal pants -->
+
+  <Apparello_TribalPants.label>围腰</Apparello_TribalPants.label>
+  <Apparello_TribalPants.description>围腰，他们痒了一下。</Apparello_TribalPants.description>
+
+
+  <!-- Holdem -->
+
+  <Apparello_Holdem.label>优质裤子</Apparello_Holdem.label>
+  <Apparello_Holdem.description>它非常时尚。</Apparello_Holdem.description>
+
+
+  <!-- Scraps -->
+
+  <Apparello_Scrapants.label>补钉裤子</Apparello_Scrapants.label>
+  <Apparello_Scrapants.description>非常粗糙丑陋的一条裤子。</Apparello_Scrapants.description>
+
+
+  <!-- Polly pocket -->
+
+  <Apparello_Pollypocket.label>工装裤</Apparello_Pollypocket.label>
+  <Apparello_Pollypocket.description>有许多大口袋的裤子。他们帮助虚弱的人能携带更多货物。建筑的理想选择。</Apparello_Pollypocket.description>
+
+
+  <!-- Jeans -->
+
+  <Apparello_Jeans.label>牛仔裤</Apparello_Jeans.label>
+  <Apparello_Jeans.description>结实的农夫裤子。专为在野外撒尿而设计。</Apparello_Jeans.description>
+
+
+  <!-- Jodphurs -->
+
+  <Apparello_Jodhpurs.label>马裤</Apparello_Jodhpurs.label>
+  <Apparello_Jodhpurs.description>任何穿着它的人都会对那些头脑简单的动物有非常高的威望。</Apparello_Jodhpurs.description>
+
+
+  <!-- Skirt -->
+
+  <Apparello_Skirtwirly.label>裙子</Apparello_Skirtwirly.label>
+  <Apparello_Skirtwirly.description>当你的腿需要所有额外的空间。</Apparello_Skirtwirly.description>
+
+
+  <!-- Lederhose -->
+
+  <Apparello_Lederhose.label>皮裤</Apparello_Lederhose.label>
+  <Apparello_Lederhose.description>皮裤（有时甚至是真皮！）穿这些的朋克总会感到幸运。</Apparello_Lederhose.description>
+
+
+  <!-- Checkers -->
+
+  <Apparello_square.label>方格裤子</Apparello_square.label>
+  <Apparello_square.description>方格，准备上路！</Apparello_square.description>
+
+
+</LanguageData>

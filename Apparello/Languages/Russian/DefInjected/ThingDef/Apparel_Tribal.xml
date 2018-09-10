@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ElMogo -->
+
+  <Apparello_Mogo.label>туника el mógo</Apparello_Mogo.label>
+  <Apparello_Mogo.description>Ritual vestments of the ancient, now extinct tribe - Chéw ón Tuna Sámmich - 
+El Mógo for short. The El Mógoan Muffalo Prophets' prophecied of a day when three meteors, bearing sleeping gods would descent from the skies. Common belief was that the gods would build a lift to the spirit realms.
+These vestments were created in the intent of binding the soul of slain gods to the wearer and thus gaining passage on the lift.</Apparello_Mogo.description>
+
+
+  <!-- Tunic -->
+
+  <Apparello_Tunic.label>Туника</Apparello_Tunic.label>
+  <Apparello_Tunic.description>Very sleek and skillfully crafted suit capable of protecting the wearer from formidable threats.</Apparello_Tunic.description>
+
+
+  <!-- Tribalpads -->
+
+  <Apparello_Tribalpad.label>племенные наплечники</Apparello_Tribalpad.label>
+  <Apparello_Tribalpad.description>Ceremonial shoulderguard</Apparello_Tribalpad.description>
+
+
+  <!-- Tribalshield -->
+
+  <Apparello_Tribalshield.label>племенной щит</Apparello_Tribalshield.label>
+  <Apparello_Tribalshield.description>Shield made of planks and padding. Used by native tribes in hopes to deflect bullets and to summon the courage of the great 'Shiled-Sheild Téh Gaurdian' A Godly protector of the tribes.</Apparello_Tribalshield.description>
+
+
+</LanguageData>

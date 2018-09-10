@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+
+<!-- =====Flip flap ^;;^ Bring me a bat===== -->
+ 
+
+
+
+
+
+	<!--Orkpads-->
+
+  <ThingDef ParentName="ArmorelloMakeableBase">
+    <defName>Apparello_Orkpad</defName>
+    <description>Shoulderpads cobbled together from metal scraps. All painted and ready for action!</description>
+    <label>metal shoulderpads</label>
+
+    <graphicData>
+      <texPath>Apparel/Display/Orkpad</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+
+    <recipeMaker>
+      <researchPrerequisite>ApparelloResearchQuilting</researchPrerequisite>
+    </recipeMaker>
+
+    <costList>
+      <Steel>50</Steel>
+    </costList>
+
+    <thingCategories>
+      <li>Apparel</li>
+      <li>ApparelloWombatSet</li>
+    </thingCategories>
+
+    <statBases>
+		      <Mass>0.10</Mass>
+      <MaxHitPoints>300</MaxHitPoints>
+      <ArmorRating_Blunt>0.05</ArmorRating_Blunt>
+      <ArmorRating_Sharp>0.25</ArmorRating_Sharp>
+    </statBases>
+		<generateCommonality>1</generateCommonality>
+    <apparel>
+			<careIfWornByCorpse>false</careIfWornByCorpse>
+      <bodyPartGroups>
+        <li>Shoulders</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Apparel/Orkpads/Orkpad</wornGraphicPath>
+      <layers>
+        <li>Shell</li>
+      </layers>
+      <tags>
+        <li>IndustrialMilitaryBasic</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+    </apparel>
+
+    <colorGenerator Class="ColorGenerator_StandardApparel" />
+  </ThingDef>
+
+
+
+
+
+	<!--Urbalpads-->
+
+  <ThingDef ParentName="ApparelloVanillaBase">
+    <defName>Apparello_Urpad</defName>
+    <description>Shoulderpads cobbled together from urban scraps. Sometimes even leather</description>
+    <label>shoulderpads</label>
+
+    <graphicData>
+      <texPath>Apparel/Display/UrbPads</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+
+    <recipeMaker>
+      <researchPrerequisite>ApparelloResearchQuilting</researchPrerequisite>
+    </recipeMaker>
+
+    <costStuffCount>35</costStuffCount>
+    <stuffCategories>
+      <li>Fabric</li>
+      <li>Leathery</li>
+    </stuffCategories>
+
+    <thingCategories>
+      <li>Apparel</li>
+      <li>ApparelloWombatSet</li>
+    </thingCategories>
+
+    <statBases>
+		      <Mass>0.1</Mass>
+      <MaxHitPoints>300</MaxHitPoints>
+      <ArmorRating_Blunt>0.1</ArmorRating_Blunt>
+      <ArmorRating_Sharp>0.2</ArmorRating_Sharp>
+    </statBases>
+		<generateCommonality>0.1</generateCommonality>
+    <apparel>
+			<careIfWornByCorpse>false</careIfWornByCorpse>
+      <bodyPartGroups>
+        <li>Shoulders</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Apparel/UrbzShell/Urb</wornGraphicPath>
+      <layers>
+        <li>Shell</li>
+      </layers>
+      <tags>
+        <li>IndustrialBasic</li>
+        <li>Spacer</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+    </apparel>
+
+    <colorGenerator Class="ColorGenerator_StandardApparel" />
+  </ThingDef>
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  	<!--Belt-->
+
+  <ThingDef ParentName="ApparelloVanillaBase">
+    <defName>Apparello_Ammobelt</defName>
+    <label>bandolier</label>
+    <description>Belt designed for carrying ammunition.</description>
+
+    <graphicData>
+      <texPath>Apparel/Display/Belt</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+
+    <recipeMaker>
+      <researchPrerequisite>ApparelloResearchQuilting</researchPrerequisite>
+    </recipeMaker>
+
+    <costStuffCount>30</costStuffCount>
+    <stuffCategories>
+      <li>Leathery</li>
+    </stuffCategories>
+
+    <thingCategories>
+      <li>Apparel</li>
+      <li>ApparelloSetRachel</li>
+    </thingCategories>
+
+    <statBases>
+		      <Mass>0.10</Mass>
+      <WorkToMake>4000</WorkToMake>
+    </statBases>
+    <equippedStatOffsets>
+      <AimingDelayFactor>-0.07</AimingDelayFactor>
+    </equippedStatOffsets>
+		<generateCommonality>0.8</generateCommonality>
+    <apparel>
+			<careIfWornByCorpse>false</careIfWornByCorpse>
+      <bodyPartGroups>
+        <li>Torso</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Apparel/Belt/Belt</wornGraphicPath>
+      <layers>
+        <li>Middle</li>
+      </layers>
+      <tags>
+        <li>IndustrialBasic</li>
+        <li>IndustrialMilitaryBasic</li>
+        <li>Western</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Worker</li>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+    </apparel>
+
+    <colorGenerator Class="ColorGenerator_StandardApparel" />
+  </ThingDef>
+
+
+
+
+
+</Defs>

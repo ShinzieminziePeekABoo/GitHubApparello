@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+<!-- Mojo -->
+
+  <ThingDef ParentName="ApparelloBase">
+    <defName>Apparello_Mojo</defName>
+    <label>modest tribal Mask</label>
+    <description>Basic tribal mask, for that wooden impression.</description>
+
+    <graphicData>
+      <texPath>Hats/Display/Mojo</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+
+    <costStuffCount>25</costStuffCount>
+    <stuffCategories>
+      <li>Leathery</li>
+      <li>Fabric</li>
+      <li>Woody</li>
+    </stuffCategories>
+
+    <recipeMaker>
+      <workSpeedStat>TailoringSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Tailor</effectWorking>
+      <soundWorking>Recipe_Tailor</soundWorking>
+
+      <researchPrerequisite>ApparelloTribalwearDesign</researchPrerequisite>
+      <recipeUsers>
+        <li>ElectricTailoringBench</li>
+        <li>HandTailoringBench</li>
+        <li>CraftingSpot</li>
+      </recipeUsers>
+    </recipeMaker>
+
+    <thingCategories>
+      <li>Apparellohats</li>
+      <li>ApparelloSocialSet</li>
+    </thingCategories>
+		<generateCommonality>0.01</generateCommonality>
+    <statBases>
+	      <WorkToMake>1000</WorkToMake>
+	      <Mass>0.14</Mass>
+      <StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.05</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.05</StuffEffectMultiplierInsulation_Heat>
+      <EquipDelay>1.2</EquipDelay>
+
+    </statBases>
+    <equippedStatOffsets>
+      <PsychicSensitivity>-0.05</PsychicSensitivity>
+      <NegotiationAbility>0.10</NegotiationAbility>
+    </equippedStatOffsets>
+    <apparel>
+	<hatRenderedFrontOfFace>true</hatRenderedFrontOfFace>
+      <bodyPartGroups>
+        <li>FullHead</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Hats/Tribalhats/Mojo</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+        <li>Neolithic</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Worker</li>
+      </defaultOutfitTags>
+    </apparel>
+	<colorGenerator Class="ColorGenerator_Options">
+	<options>
+		<li>
+		<weight>5</weight>
+		<max>RGBA(1,1,1,1)</max>
+		<min>RGBA(0.30,0.30,0.30,1)</min>
+		</li>				
+	</options>
+	</colorGenerator>
+  </ThingDef>
+
+  <ThingDef ParentName="ApparelBase">
+    <defName>Apparello_Mojotwo</defName>
+    <label>gaudy tribal Mask</label>
+    <description>Makes you look ever so slightly more sociable.</description>
+
+    <graphicData>
+      <texPath>Hats/Display/Mojotwo</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+
+    <thingCategories>
+      <li>Apparellohats</li>
+      <li>ApparelloSocialSet</li>
+    </thingCategories>
+
+    <costStuffCount>25</costStuffCount>
+    <stuffCategories>
+      <li>Leathery</li>
+      <li>Fabric</li>
+      <li>Woody</li>
+    </stuffCategories>
+
+    <recipeMaker>
+      <workSpeedStat>TailoringSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Tailor</effectWorking>
+      <soundWorking>Recipe_Tailor</soundWorking>
+
+      <researchPrerequisite>ApparelloTribalwearDesign</researchPrerequisite>
+      <recipeUsers>
+        <li>ElectricTailoringBench</li>
+        <li>HandTailoringBench</li>
+        <li>CraftingSpot</li>
+      </recipeUsers>
+    </recipeMaker>
+		<generateCommonality>0.05</generateCommonality>
+    <statBases>
+		      <WorkToMake>1000</WorkToMake>
+	      <Mass>0.14</Mass>
+      <StuffEffectMultiplierArmor>0.3</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.05</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.05</StuffEffectMultiplierInsulation_Heat>
+      <EquipDelay>1.2</EquipDelay>
+
+    </statBases>
+    <equippedStatOffsets>
+      <PsychicSensitivity>-0.05</PsychicSensitivity>
+      <SocialImpact>0.10</SocialImpact>
+    </equippedStatOffsets>
+    <apparel>
+	<hatRenderedFrontOfFace>true</hatRenderedFrontOfFace>
+      <bodyPartGroups>
+        <li>FullHead</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Hats/Tribalhats/Mojotwo</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+        <li>Neolithic</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Worker</li>
+      </defaultOutfitTags>
+    </apparel>
+	<colorGenerator Class="ColorGenerator_Options">
+	<options>
+		<li>
+		<weight>5</weight>
+		<max>RGBA(1,1,1,1)</max>
+		<min>RGBA(0.30,0.30,0.30,1)</min>
+		</li>				
+	</options>
+	</colorGenerator>
+  </ThingDef>
+
+<!-- Mojo Fether -->
+
+  <ThingDef ParentName="ApparelloBase">
+    <defName>Apparello_MojoFeather</defName>
+    <label>tribal headdress</label>
+    <description>Tribal headdress or a foot bottom torturing device. It's very feathery</description>
+
+    <graphicData>
+      <texPath>Hats/Display/Fether</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+
+    <costStuffCount>25</costStuffCount>
+    <stuffCategories>
+      <li>Leathery</li>
+      <li>Fabric</li>
+    </stuffCategories>
+
+    <recipeMaker>
+      <workSpeedStat>TailoringSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Tailor</effectWorking>
+      <soundWorking>Recipe_Tailor</soundWorking>
+
+      <researchPrerequisite>ApparelloTribalwearDesign</researchPrerequisite>
+      <recipeUsers>
+        <li>ElectricTailoringBench</li>
+        <li>HandTailoringBench</li>
+        <li>CraftingSpot</li>
+      </recipeUsers>
+    </recipeMaker>
+
+    <thingCategories>
+      <li>Apparellohats</li>
+      <li>ApparelloSocialSet</li>
+    </thingCategories>
+
+    <statBases>
+		      <WorkToMake>6000</WorkToMake>
+	      <Mass>0.11</Mass>
+<StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.1</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.15</StuffEffectMultiplierInsulation_Heat>
+      <EquipDelay>1.2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <SocialImpact>0.15</SocialImpact>
+    </equippedStatOffsets>
+			<generateCommonality>0.005</generateCommonality>
+    <apparel>
+      <bodyPartGroups>
+        <li>UpperHead</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Hats/Tribalhats/Fether</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+        <li>Neolithic</li>
+	<li>TribalTrader</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Worker</li>
+      </defaultOutfitTags>
+    </apparel>
+	<colorGenerator Class="ColorGenerator_Options">
+	<options>
+		<li>
+		<weight>5</weight>
+		<max>RGBA(1,1,1,1)</max>
+		<min>RGBA(0.30,0.30,0.30,1)</min>
+		</li>				
+	</options>
+	</colorGenerator>
+  </ThingDef>
+
+
+
+
+
+
+
+
+</Defs>

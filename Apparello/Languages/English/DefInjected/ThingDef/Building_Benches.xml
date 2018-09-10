@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ApparelloTinkerer.label>Tinkering bench</ApparelloTinkerer.label>
+  <ApparelloTinkerer.description>A workbench with a set of tools for tinkering. Can work without electricity at 40% of normal speed.</ApparelloTinkerer.description>
+  <ApparelloTinkerer_Blueprint.label>Tinkering bench (blueprint)</ApparelloTinkerer_Blueprint.label>
+  <ApparelloTinkerer_Blueprint_Install.label>Tinkering bench (blueprint)</ApparelloTinkerer_Blueprint_Install.label>
+  <ApparelloTinkerer_Frame.label>Tinkering bench (building)</ApparelloTinkerer_Frame.label>
+  <ApparelloTinkerer_Frame.description>A workbench with a set of tools for tinkering. Can work without electricity at 40% of normal speed.</ApparelloTinkerer_Frame.description>
+
+
+</LanguageData>

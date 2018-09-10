@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparello_Goggles.label>科學護目鏡</Apparello_Goggles.label>
+  <Apparello_Goggles.description>當你面對強光或是化學反應時你會需要這個護目鏡。</Apparello_Goggles.description>
+
+
+  <!-- Visors -->
+
+  <Apparello_Visoor.label>飛行員護目鏡</Apparello_Visoor.label>
+  <Apparello_Visoor.description>用於履行你往常的駕駛需求，如呼叫"休斯頓，求救求救，登陸支柱卡住了，重複一遍，登陸支柱卡住了"</Apparello_Visoor.description>
+
+
+  <!-- Shades -->
+
+  <Apparello_Shadess.label>遮陽護目鏡</Apparello_Shadess.label>
+  <Apparello_Shadess.description>最受青睞的防曬保護。佩戴者永遠不會發生"陽光照在我的眼中"的情形。</Apparello_Shadess.description>
+
+
+  <!-- Pilot -->
+
+  <Apparello_Piloggle.label>飛行員太陽眼鏡</Apparello_Piloggle.label>
+  <Apparello_Piloggle.description>上等的質量。用來遮住你的眼睛，真棒！</Apparello_Piloggle.description>
+
+
+  <!-- Brimsk -->
+
+  <Apparello_Brimsk.label>滑雪護目鏡</Apparello_Brimsk.label>
+  <Apparello_Brimsk.description>軍用級滑雪護目鏡，略帶風格的設計。以耐衝擊性強而聞名。</Apparello_Brimsk.description>
+
+
+</LanguageData>
